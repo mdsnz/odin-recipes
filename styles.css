@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: #151515;
+    color: navajowhite;
+}
+
+h1, h2 {
+    color: tomato;
+}
+
+a:visited, a:hover, a:link {
+    color: gold;
+}
+
+
