@@ -1,15 +1,20 @@
 body {
-    text-align: center;
     background-color: #151515;
     color: navajowhite;
+    text-align: center;
 }
 
 h1, h2 {
     color: tomato;
+    
 }
 
 a:visited, a:hover, a:link {
     color: gold;
+
 }
 
+ul, ol {
+    list-style-position: inside;
+  }
 
