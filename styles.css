@@ -1,12 +1,37 @@
 body {
     background-color: #151515;
     color: navajowhite;
+}
+
+.recipe-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.recipe-list {
+    /*border: solid 1px #ffff; */
+    width: 800px;
+    margin: 0px auto;
+    padding: 20px 10px;
+    height: 500px
+}
+
+.recipe {
+    border: solid 1px red;
+    width: 1000px;
+    margin: 0px auto;
+    padding: 15px;
+}
+
+.recipe-description {
     text-align: center;
 }
 
 h1, h2 {
     color: tomato;
-    
+    text-align: center;
 }
 
 a:visited, a:hover, a:link {
